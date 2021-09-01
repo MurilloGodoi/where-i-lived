@@ -1,8 +1,8 @@
 {
-  "name": "Murillo Godoi - Boilerplate",
-  "short_name": "NextJS Boilerplate",
+  "name": "Cities Where I've Lived",
+  "short_name": "Cities Where I've Lived",
   "background_color": "#06092B",
-  "description": "Boilerlate utilizando Typescript, React, NextJS e Styled Components!",
+  "description": "A simple project to show cities where i've lived",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"
